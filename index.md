@@ -12,7 +12,7 @@
       <p><b>地址：浙江省宁波市鄞州区盛莫路，邮编315100</b></p>
     </td>
     <td width="25%">
-      <img src="QQ图片20201201200510.jpg" width="100%"> <br>   
+      <img src="QQ图片20201201200510.jpg" width="100%">  
   </td>
   </tr>
 </tbody></table></body></html>
